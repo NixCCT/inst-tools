@@ -13,3 +13,4 @@ The Best Repository To Install The Best Packages In Termux
   cd inst-tools
   chmod +x *
   python install.sh
+  '''
