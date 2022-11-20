@@ -1,7 +1,7 @@
 # inst-tools
 The Best Repository To Install The Best Packages In Termux
 
-*#Download#*
+# DOWNLOAD
 
 **INSTOOLS**
 
@@ -15,10 +15,10 @@ The Best Repository To Install The Best Packages In Termux
   python install.sh
   ```
 
-  #DESIGNED FOR TESTING
+  # DESIGNED FOR TESTING
   Nnot be used against anyone
   nI am not responsible for the damage they do with this <B>SCRIPT</B>
   
   
   
-  ##By nix 
+  ## By nix 
