@@ -16,7 +16,7 @@ The Best Repository To Install The Best Packages In Termux
   ```
 
   # DESIGNED FOR TESTING
-  Nnot be used against anyone
+  Not be used against anyone
   nI am not responsible for the damage they do with this <B>SCRIPT</B>
   
   
