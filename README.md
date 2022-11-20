@@ -1,6 +1,15 @@
 # inst-tools
 The Best Repository To Install The Best Packages In Termux
 
+#Download
+
 **INSTOOLS**
 
-<b>nix<b>
+<b> by nix<b>
+
+  bash'''
+  
+  git clone https://github.com/NixCCT/inst-tools.git
+  cd inst-tools
+  chmod +x *
+  python install.sh
